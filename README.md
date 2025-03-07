@@ -77,5 +77,10 @@ This will start the development server, and you can access the app at:
 5️⃣ Open
 
 find the screenshots of my project pages here:-
+in light mode
+![Light mode](https://github.com/SuhaniBharti/textutils/blob/main/Screenshot%202025-03-07%20204118.png)
+
+In Dark mode
+![Dark Mode](https://github.com/SuhaniBharti/textutils/blob/main/Screenshot%202025-03-07%20204139.png)
 
 
