@@ -5,7 +5,7 @@ TextUtils is a simple yet powerful **React-based** web application that allows u
 
 ---
 
-## 🚀 Features
+##  Features
 ✅ Convert text to **UPPERCASE** & **lowercase**  
 ✅ **Remove extra spaces** from text  
 ✅ **Copy text** to clipboard  
@@ -27,7 +27,7 @@ The project is built using the following technologies:
 
 ---
 
-## 🎯 Installation & Setup
+##  Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
  git clone https://github.com/your-username/textutils.git
@@ -48,11 +48,11 @@ The project is built using the following technologies:
  npm start
 ```
 This will start the development server, and you can access the app at:
-👉 `http://localhost:3000/`
+ `http://localhost:3000/`
 
 ---
 
-## 🔥 How to Use
+##  How to Use
 1️⃣ Enter the text you want to analyze in the text area.  
 2️⃣ Click on **"Convert to Uppercase"** or **"Convert to Lowercase"** as needed.  
 3️⃣ Click **"Remove Extra Spaces"** to clean the text.  
