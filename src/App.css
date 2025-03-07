@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -26,6 +27,37 @@
 
 .App-link {
   color: #61dafb;
+}
+
+/* Dark Mode Styles */
+.dark-mode {
+  background-color: #2b2547 !important;
+  color: white !important;
+}
+
+.dark-mode .container {
+  background-color: #1e1e2f !important;
+  color: white !important;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.dark-mode .form-control {
+  background-color: #222 !important;
+  color: white !important;
+  border: 1px solid white !important;
+}
+
+.dark-mode button {
+  background-color: #4b0082 !important;
+  color: white !important;
+  border: none;
+}
+
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode p {
+  color: white !important;
 }
 
 @keyframes App-logo-spin {
